@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 📱 I’m currently working on: Building Flutter apps with clean UI and Firebase features<br>🤝 I’m looking to collaborate on: Mobile projects that solve real user problems<br>🌱 I’m currently learning: App architecture, testing, and deployment<br>💬 Ask me about: Flutter widgets, state management, and Firebase integration<br>⚡ Fun fact: I enjoy improving apps every time I learn something new
 
@@ -21,4 +22,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Parth369000)](https://github.com/ryo-ma/github-profile-trophy)
+
